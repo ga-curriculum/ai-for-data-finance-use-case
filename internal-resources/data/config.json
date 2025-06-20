@@ -1,0 +1,76 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "AI Use Case: Financial Forecasting & Analysis",
+    "name": "ai-for-data-finance-use-case",
+    "type": "Lesson",
+    "about": "This 75–minute module helps you use GenAI to support real-world financial forecasting workflows. You’ll learn how to prompt for trend detection and scenario planning, and how to evaluate GenAI outputs with a critical business lens.",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Mapping workflows to AI tasks",
+          "dirName": "mapping-workflows-ai-tasks",
+          "type": "Content",
+          "skill": "Workflow decomposition, AI task mapping",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Prompting GenAI for forecasting",
+          "dirName": "prompting-genai-forecasting",
+          "type": "Content",
+          "skill": "Structured prompting, trend and scenario generation",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Mini lab: Evaluate AI forecasts",
+          "dirName": "mini-lab-evaluate-ai-forecasts",
+          "type": "Content",
+          "skill": "Forecast generation, validation, and business critique",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 35
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

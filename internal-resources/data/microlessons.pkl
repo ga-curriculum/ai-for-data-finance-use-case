@@ -1,31 +1,22 @@
 import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
 
-// Add microlessons here, in the order they should be delivered
-
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
-  type = "Content"
-  videoUrl = ""
-}
-
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
-  type = "Content"
-  videoUrl = ""
-}
-
 microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
+  friendlyName = "Mapping workflows to AI tasks"
   dirName = "microlesson-01"
   type = "Content"
   videoUrl = ""
 }
 
 microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
+  friendlyName = "Prompting GenAI for forecasting"
   dirName = "microlesson-02"
+  type = "Content"
+  videoUrl = ""
+}
+
+microlesson03 = new Template.Microlesson {
+  friendlyName = "Mini lab: Evaluate AI forecasts"
+  dirName = "microlesson-03"
   type = "Content"
   videoUrl = ""
 }
