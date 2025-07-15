@@ -11,9 +11,9 @@ This 75-minute module helps you use GenAI to support real-world financial foreca
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Mapping workflows to AI tasks](/microlesson-1/README.md) | 20 min | Workflow decomposition, AI task mapping |
-| [Prompting GenAI for forecasting](/microlesson-2/README.md) | 20 min | Structured prompting, trend and scenario generation |
-| [Mini lab: Evaluate AI forecasts](/microlesson-3/README.md) | 35 min | Forecast generation, validation, and business critique |
+| [Mapping workflows to AI tasks](/microlesson-01/README.md) | 20 min | Workflow decomposition, AI task mapping |
+| [Prompting GenAI for forecasting](/microlesson-02/README.md) | 20 min | Structured prompting, trend and scenario generation |
+| [Mini lab: Evaluate AI forecasts](/microlesson-03/README.md) | 35 min | Forecast generation, validation, and business critique |
 | **Total content** | 75 min |  |
 
 ## References
