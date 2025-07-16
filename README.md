@@ -16,6 +16,7 @@ This 75-minute module helps you use GenAI to support real-world financial foreca
 | [Mini lab: Evaluate AI forecasts](/microlesson-03/README.md) | 35 min | Forecast generation, validation, and business critique |
 | **Total content** | 75 min |  |
 
+<!--
 ## References
 
 📖 [Reference Materials](./references/README.md)
@@ -56,3 +57,4 @@ _No deployed site available._
 ---
 
 **Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+-->
