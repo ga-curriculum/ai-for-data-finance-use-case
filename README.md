@@ -16,18 +16,18 @@ This 75-minute module helps you use GenAI to support real-world financial foreca
 | [Mini lab: Evaluate AI forecasts](/microlesson-03/README.md) | 35 min | Forecast generation, validation, and business critique |
 | **Total content** | 75 min |  |
 
+### Prerequisites
+
+- Experience reading financial statements or metrics
+- Familiarity with spreadsheet tools (Excel, Sheets)
+- Comfort using GenAI to analyze or summarize data
+
 <!--
 ## References
 
 📖 [Reference Materials](./references/README.md)
 
 ## Internal
-
-### Prerequisites
-
-- Experience reading financial statements or metrics
-- Familiarity with spreadsheet tools (Excel, Sheets)
-- Comfort using GenAI to analyze or summarize data
 
 ### Starter code
 
