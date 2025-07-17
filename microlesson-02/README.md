@@ -44,7 +44,7 @@ Assume a linear trend unless otherwise indicated. List your assumptions.
 
 ## 3. Try it: Your turn to prompt
 
-Open the file: `historical_financials.csv`
+Open the file: [historical_financials.csv](./assets/historical_financials.csv)
 
 You’ll see:
 - Revenue

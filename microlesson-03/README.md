@@ -21,8 +21,8 @@ Your job: Use GenAI to help forecast next quarter’s revenue per product, evalu
 ## 2. Setup
 
 You’ll use:
-- `historical_financials_product_level.csv`
-- `scenario_notes.txt`
+- [historical_financials_product_level.csv](./assets/historical_financials_product_level.csv)
+- [scenario_notes.txt](./assets/scenario_notes.txt)
 
 > 💡 The data tracks Revenue, COGS, and SG&A for 3 products (Alpha, Beta, Gamma) over 20 quarters (Q1 2020–Q4 2024).
 
@@ -51,7 +51,7 @@ Forecast Q1 2025 revenue per product. Note assumptions. If possible, include a c
 
 ### Step 3: Add scenario context
 
-From `scenario_notes.txt`, include a risk or opportunity:
+From [scenario_notes.txt](./assets/scenario_notes.txt), include a risk or opportunity:
 
 ```
 Leadership expects Alpha to slow due to a paused contract, and Beta to grow 8% due to a product refresh.
