@@ -60,7 +60,7 @@ Adjust your forecast accordingly.
 
 ### Step 4: Compare with baseline
 
-Open `forecast_baseline.xlsx`. Review a basic linear projection.
+Open [forecast_baseline.xlsx](./assets/forecast_baseline.xlsx). Review a basic linear projection.
 Compare:
 - Revenue numbers by product
 - Assumptions made
