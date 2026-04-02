@@ -43,8 +43,8 @@ _No deployed site available._
 
 ### Course landing pages
 
-- [AI-SP - AI Superpowered Data Professionals](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-financial-forecasting/canvas-landing-pages/ai-sp.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-financial-forecasting/canvas-landing-pages/fallback.html)
+- [AI-SP - AI Superpowered Data Professionals](https://ga-curriculum.github.io/ai-financial-forecasting/canvas-landing-pages/ai-sp.html)
+- [Fallback](https://ga-curriculum.github.io/ai-financial-forecasting/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -56,5 +56,5 @@ _No deployed site available._
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
 -->
